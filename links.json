@@ -1,0 +1,8 @@
+{
+    "e!n" : "\n Teste \nTeste \nTeste \nTeste ",
+    "e!t" : "\t Teste \tTeste \tTeste \tTeste ",
+    "e!testemark" :"```diff\n-Ah\t```",
+    "e!youtube" : "https://www.youtube.com",
+    "e!gmail" : "https://mail.google.com/",
+    "e!facebook" : "https://www.facebook.com "
+}
